@@ -4,5 +4,4 @@ line 2
 
 line 3
 
-
-line 4 added remotely
+merged local and remote changes to create diff line 4
