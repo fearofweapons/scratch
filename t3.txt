@@ -2,4 +2,6 @@ This is the third text file
 
 line 2
 
-local line3
+
+remote line 3
+
